@@ -79,12 +79,12 @@
 78,2026-01-13 19:20:00,azhar2211136@itpln.ac.id,AZHAR LAZUARDI IMANI,2022,202211136,S1 Teknik Elektro,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
 79,2026-01-13 19:37:20,muhamad2212013@itpln.ac.id,MUHAMAD RIZKY FATAHILLAH,2022,202212013,S1 Teknik Mesin,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
 80,2026-01-13 20:13:32,rovan2212002@itpln.ac.id,ROVAN LUWID ERVAN SIHOMBING,2022,202212002,S1 Teknik Mesin,MOS: Excel,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
-81,2026-01-13 20:39:06,muhammad2242014@itpln.ac.id,MUHAMMAD ALLIF HABIBILLAH,2022,202242014,S1 Teknik Industri,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
-82,2026-01-13 20:44:56,carlos2112036@itpln.ac.id,CARLOS LIMBONG,2021,202112036,S1 Teknik Mesin,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
+81,2026-01-13 20:39:06,muhammad2242014@itpln.ac.id,MUHAMMAD ALLIF HABIBILLAH,2022,202242014,S1 Teknik Industri,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
+82,2026-01-13 20:44:56,carlos2112036@itpln.ac.id,CARLOS LIMBONG,2021,202112036,S1 Teknik Mesin,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
 83,2026-01-13 21:25:35,habil2231077@itpln.ac.id,HABIL RAMA TAUFANY,2022,202231077,S1 Teknik Informatika,MOS: Excel,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
-84,2026-01-13 21:29:16,nadyara2232009@itpln.ac.id,NADYARA NATASHA,2022,202232009,S1 Sistem Informasi,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
-85,2026-01-13 22:01:19,ibnu2232028@itpln.ac.id,IBNU RASYID AL FAIZ,2022,202232028,S1 Sistem Informasi,MOS: Excel,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
-86,2026-01-13 22:10:57,septian2214009@itpln.ac.id,SEPTIAN DWI ANDANA,2022,202214009,S1 Teknik Tenaga Listrik,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
+84,2026-01-13 21:29:16,nadyara2232009@itpln.ac.id,NADYARA NATASHA,2022,202232009,S1 Sistem Informasi,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
+85,2026-01-13 22:01:19,ibnu2232028@itpln.ac.id,IBNU RASYID AL FAIZ,2022,202232028,S1 Sistem Informasi,MOS: Excel,Training & Ujian, Rp-   , Rp-   ,APPROVED
+86,2026-01-13 22:10:57,septian2214009@itpln.ac.id,SEPTIAN DWI ANDANA,2022,202214009,S1 Teknik Tenaga Listrik,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
 87,2026-01-13 23:03:05,muhammad2231026@itpln.ac.id,MUHAMMAD NAUFAL ARIEF,2022,202231026,S1 Teknik Informatika,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
 88,2026-01-14 03:15:47,daffa2211115@itpln.ac.id,MUHAMMAD DAFFA ZHAFRAN,2022,202211115,S1 Teknik Elektro,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
 89,2026-01-14 07:32:58,azra2212012@itpln.ac.id,AZRA OKSYANI,2022,202212012,S1 Teknik Mesin,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
@@ -92,11 +92,56 @@
 91,2026-01-14 10:35:19,zaghi2242006@itpln.ac.id,ZAGHI PRIMA MANGGALA,2022,202242006,S1 Teknik Industri,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
 92,2026-01-14 11:03:22,m2231065@itpln.ac.id,M RIZKY RAMADHAN,2022,202231065,S1 Teknik Informatika,MOS: Excel,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
 93,2026-01-14 11:04:06,muhammad2231036@itpln.ac.id,MUHAMMAD RAFI,2022,202231036,S1 Teknik Informatika,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
-94,2026-01-14 11:11:07,lorenzo1931071@itpln.ac.id,LORENZO GONZALEZ SITUMORANG,2019,201931071,S1 Teknik Informatika,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
+94,2026-01-14 11:11:07,lorenzo1931071@itpln.ac.id,LORENZO GONZALEZ SITUMORANG,2019,201931071,S1 Teknik Informatika,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
 95,2026-01-14 11:13:16,risha2242022@itpln.ac.id,RISHA FIRLY APSARI,2022,202242022,S1 Teknik Industri,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
-96,2026-01-14 11:52:32,micky1911059@itpln.ac.id,MICKY IKHSAN ASRIL,2019,201911059,S1 Teknik Elektro,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
+96,2026-01-14 11:52:32,micky1911059@itpln.ac.id,MICKY IKHSAN ASRIL,2019,201911059,S1 Teknik Elektro,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
 97,2026-01-14 11:55:29,lasma2111143@itpln.ac.id,LASMA DEVI ARUAN,2021,202111143,S1 Teknik Elektro,MOS: Excel,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
-98,2026-01-14 12:23:23,andi2231052@itpln.ac.id,ANDI XAVIER WIDYADHANA,2022,202231052,S1 Teknik Informatika,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
-99,2026-01-14 13:06:53,dhiaz2212040@itpln.ac.id,DHIAZ ADITYA,2022,202212040,S1 Teknik Mesin,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
+98,2026-01-14 12:23:23,andi2231052@itpln.ac.id,ANDI XAVIER WIDYADHANA,2022,202231052,S1 Teknik Informatika,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
+99,2026-01-14 13:06:53,dhiaz2212040@itpln.ac.id,DHIAZ ADITYA,2022,202212040,S1 Teknik Mesin,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
 100,2026-01-14 13:08:13,surya2111150@itpln.ac.id,SURYA ADI SAPUTRA,2021,202111150,S1 Teknik Elektro,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
-101,2026-01-14 13:15:08,virgiawan2232034@itpln.ac.id,MUHAMMAD VIRGIAWAN PUTRA KARMAJI,2022,202232034,S1 Sistem Informasi,MOS: Excel,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
+101,2026-01-14 13:15:08,virgiawan2232034@itpln.ac.id,MUHAMMAD VIRGIAWAN PUTRA KARMAJI,2022,202232034,S1 Sistem Informasi,MOS: Excel,Training & Ujian, Rp-   , Rp-   ,APPROVED
+102,2026-01-14 14:27:57,hidayah2211128@itpln.ac.id,MUH HIDAYAH RAMADHAN,2022,202211128,S1 Teknik Elektro,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
+103,2026-01-14 15:02:48,asnur2212006@itpln.ac.id,ASNUR FAJRI,2022,202212006,S1 Teknik Mesin,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
+104,2026-01-14 15:02:49,naufal2212024@itpln.ac.id,NAUFAL ADHITYA HASAN,2022,202212024,S1 Teknik Mesin,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
+105,2026-01-14 15:10:22,hezkya2214038@itpln.ac.id,HEZKYA FEBRYKUSUMA,2022,202214038,S1 Teknik Tenaga Listrik,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
+106,2026-01-14 17:32:32,hafizh2211021@itpln.ac.id,HAFIZH ASQHALANI HATALA,2022,202211021,S1 Teknik Elektro,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
+107,2026-01-14 17:37:03,hanief2231109@itpln.ac.id,MUHAMMAD HANIEF FEBRIANSYAH,2022,202231109,S1 Teknik Informatika,MOS: Excel,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
+108,2026-01-14 18:08:31,andika2231050@itpln.ac.id,ANDIKA SURYA SAPUTRA,2022,202231050,S1 Teknik Informatika,MOS: Excel,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
+109,2026-01-14 18:24:05,rosemain2242028@itpln.ac.id,ROSEMAIN ERI ASTUTI JATNIKA PUTRI,2022,202242028,S1 Teknik Industri,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
+110,2026-01-14 18:41:24,randi2111274@itpln.ac.id,RANDI SAIMIMA,2021,202111275,S1 Teknik Elektro,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
+111,2026-01-14 18:45:52,isran2111053@itpln.ac.id,LA ODE AL ISRAN ARIFIN A.,2021,202111053,S1 Teknik Elektro,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
+112,2026-01-14 18:52:25,ghibran2242034@itpln.ac.id,GHIBRAN WARDANA MANTONG,2022,202242033,S1 Teknik Industri,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
+113,2026-01-14 19:01:05,jovandra2131124@itpln.ac.id,JOVAN DRA,2021,202131124,S1 Teknik Informatika,MOS: PowerPoint,Training & Ujian, Rp-   , Rp-   ,APPROVED
+114,2026-01-14 19:15:02,riswandi2212017@itpln.ac.id,RISWANDI ARIF,2022,202212017,S1 Teknik Mesin,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
+115,2026-01-14 19:31:17,wahyu2214039@itpln.ac.id,MUHAMMAD WAHYU GUSTIAN HARUN,2022,202214039,S1 Teknik Tenaga Listrik,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
+116,2026-01-14 19:33:05,rieke2214040@itpln.ac.id,RIEKE WAHYUNING PITALOKA,2022,202214040,S1 Teknik Tenaga Listrik,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
+117,2026-01-14 19:34:21,rayhan2214012@itpln.ac.id,RAYHAN GHASSANI,2022,202214012,S1 Teknik Tenaga Listrik,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
+118,2026-01-14 19:35:24,risna2214021@itpln.ac.id,RISNA RIZKY ALFIYAN,2022,202214021,S1 Teknik Tenaga Listrik,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
+119,2026-01-14 19:36:54,rama2211127@itpln.ac.id,RAMA JECKWARD PUARADA,2022,202211127,S1 Teknik Elektro,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
+120,2026-01-14 20:08:00,renata2231059@itpln.ac.id,RENATA YASMINE SELOMITA,2022,202231059,S1 Teknik Informatika,MOS: Excel,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
+121,2026-01-14 20:13:01,yericho2231012@itpln.ac.id,YERICHO HARVEY KRISETYANTO,2022,202231012,S1 Teknik Informatika,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
+122,2026-01-14 20:34:35,ilham2231119@itpln.ac.id,ILHAM TANZILAL AZIIZIR,2022,202231119,S1 Teknik Informatika,MOS: Excel,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
+123,2026-01-14 20:42:30,yudith2221009@itpln.ac.id,YUDITH NADHIRA AYUVA,2022,202221009,S1 Teknik Sipil,MOS: Excel,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
+124,2026-01-14 20:48:38,nur2231090@itpln.ac.id,NUR MUTMAINNAH HASRUL,2022,202231090,S1 Teknik Informatika,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
+125,2026-01-14 20:56:39,andi2211037@itpln.ac.id,ANDI RAYHAN ALFIQHI,2022,202211037,S1 Teknik Elektro,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
+126,2026-01-14 20:58:20,dwi2231124@itpln.ac.id,DWI RENO OKTA RIADI,2022,202231124,S1 Teknik Informatika,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
+127,2026-01-14 21:02:02,akbar2231015@itpln.ac.id,MUHAMMAD AKBAR ABIDZAR AL GHIFARI,2022,202231015,S1 Teknik Informatika,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
+128,2026-01-14 21:33:14,joy2231118@itpln.ac.id,JOY EFRATA GINTING,2022,202231118,S1 Teknik Informatika,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
+129,2026-01-14 22:00:03,alvan2112057@itpln.ac.id,ALVAN SIRAIT,2021,202112057,S1 Teknik Mesin,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
+130,2026-01-14 22:04:20,indah2231051@itpln.ac.id,INDAH WULANDARI,2022,202231051,S1 Teknik Informatika,MOS: Excel,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
+131,2026-01-14 22:05:40,duta2112029@itpln.ac.id,DUTA ARYAWASTU WISESA,2021,202112029,S1 Teknik Mesin,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
+132,2026-01-14 22:21:36,salsabillah2231033@itpln.ac.id,SALSABILLAH ㅤ,2022,202231033,S1 Teknik Informatika,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
+133,2026-01-14 22:26:56,christian2231117@itpln.ac.id,CHRISTIAN LUMBAN GAOL,2022,202231117,S1 Teknik Informatika,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
+134,2026-01-14 22:27:16,hidayat2121018@itpln.ac.id,HIDAYAT SEPTIAN,2021,202121018,S1 Teknik Sipil,MOS: Excel,Training & Ujian, Rp-   , Rp-   ,APPROVED
+135,2026-01-14 22:32:45,uswatun2231002@itpln.ac.id,USWATUN NISA,2022,202231002,S1 Teknik Informatika,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
+136,2026-01-14 22:43:26,akbar2211074@itpln.ac.id,AKBAR ALDRIAN,2022,202211074,S1 Teknik Elektro,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
+137,2026-01-14 22:56:15,anna2111062@itpln.ac.id,ANNA FINCE MARIANA WOUW,2021,202111062,S1 Teknik Elektro,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
+138,2026-01-14 22:59:25,fredy1911071@itpln.ac.id,FREDY WORU,2019,201911071,S1 Teknik Elektro,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
+139,2026-01-14 23:07:28,ryo2121049@itpln.ac.id,MUHAMMAD RYO RAMADHAN,2021,202121049,S1 Teknik Sipil,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
+140,2026-01-14 23:18:27,andre2214036@itpln.ac.id,ANDRE PRATAMA,2022,202214036,S1 Teknik Tenaga Listrik,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
+141,2026-01-14 23:42:09,hammam2211092@itpln.ac.id,MUHAMMAD HAMMAM ZAKI,2022,202211092,S1 Teknik Elektro,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
+142,2026-01-14 23:43:41,sean2212034@itpln.ac.id,SEAN GILBERT IVANDER SILABAN,2022,202212034,S1 Teknik Mesin,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
+143,2026-01-14 23:49:30,muhammad2231025@itpln.ac.id,MUHAMMAD FADHIL BIMA JULIANO,2022,202231025,S1 Teknik Informatika,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
+144,2026-01-15 00:35:52,vivin2131047@itpln.ac.id,VIVIN MELANESYA WAYENI,2021,202131047,S1 Teknik Informatika,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED
+145,2026-01-15 00:36:26,virginia2331258@itpln.ac.id,VIRGINIA KADIWARU,2023,202331258,S1 Teknik Informatika,MOS: Word,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
+146,2026-01-15 00:58:06,syifa2232032@itpln.ac.id,SYIFA FRIZALDY,2022,202232032,S1 Sistem Informasi,MOS: Word,Training & Ujian, Rp-   , Rp-   ,APPROVED

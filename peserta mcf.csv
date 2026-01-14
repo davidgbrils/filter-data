@@ -4,7 +4,7 @@
 3,2026-01-13 01:30:50,andi2231112@itpln.ac.id,ANDI MUHAMMAD NABIL ALKAF,2022,202231112,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
 4,2026-01-13 01:30:55,nilam2231022@itpln.ac.id,NILAM FADILAH,2022,202231022,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
 5,2026-01-13 01:39:25,hanif2231018@itpln.ac.id,HANIF IBNU OKTAFIAN,2022,202231018,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
-6,2026-01-13 03:00:17,rafi2231089@itpln.ac.id,MUHAMMAD RAFI AL ANBIYA,2022,202231089,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
+6,2026-01-13 03:00:17,rafi2231089@itpln.ac.id,MUHAMMAD RAFI AL ANBIYA,2022,202231089,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
 7,2026-01-13 03:00:39,rifqi2231104@itpln.ac.id,MUHAMMAD RIFQI APRIANSYAH,2022,202231104,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
 8,2026-01-13 03:01:12,anugerah2231085@itpln.ac.id,ANUGERAH KRISNALDI,2022,202231085,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
 9,2026-01-13 03:03:27,agil2231103@itpln.ac.id,AGIL ALWINANDAR,2022,202231103,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
@@ -45,13 +45,48 @@
 44,2026-01-13 18:00:05,aulia2131080@itpln.ac.id,AULIA PRAVDA SULISTYASEVA,2021,202131080,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
 45,2026-01-13 19:39:12,fargho2131045@itpln.ac.id,FARGHO FARTHOGI,2021,202131045,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
 46,2026-01-13 19:55:18,obed2131082@itpln.ac.id,OBED YUDHA PAMBUDI,2021,202131082,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
-47,2026-01-13 21:26:39,habil2231077@itpln.ac.id,HABIL RAMA TAUFANY,2022,202231077,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
-48,2026-01-13 22:16:00,lutfiansyah2131129@itpln.ac.id,LUTFIANSYAH MAJID,2021,202131129,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
-49,2026-01-13 22:28:14,kashrina2231055@itpln.ac.id,KASHRINA MASYID AZKA,2022,202231055,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
-50,2026-01-13 23:03:32,muhammad2231026@itpln.ac.id,MUHAMMAD NAUFAL ARIEF,2022,202231026,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
-51,2026-01-14 05:57:38,desta2232033@itpln.ac.id,DESTA AZRA ROSANI FEERLIAN ADI,2022,202232033,S1 Sistem Informasi,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
-52,2026-01-14 10:03:08,popy2231079@itpln.ac.id,POPY LEONI PURBA,2022,202231079,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
-53,2026-01-14 11:41:44,serlina2131161@itpln.ac.id,SERLINA MARGARET BANOET BR HUTAHAEAN,2021,202131161,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
-54,2026-01-14 11:58:44,dewi2231011@itpln.ac.id,DEWI SAFITRI,2022,202231011,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
-55,2026-01-14 12:09:22,grace2231082@itpln.ac.id,GRACE HUTASOIT,2022,202231082,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
-56,2026-01-14 12:27:08,affandi1831201@itpln.ac.id,AFFANDI MUFTI NASRUN,2018,201831201,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
+47,2026-01-13 21:26:39,habil2231077@itpln.ac.id,HABIL RAMA TAUFANY,2022,202231077,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+48,2026-01-13 22:16:00,lutfiansyah2131129@itpln.ac.id,LUTFIANSYAH MAJID,2021,202131129,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+49,2026-01-13 22:28:14,kashrina2231055@itpln.ac.id,KASHRINA MASYID AZKA,2022,202231055,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+50,2026-01-13 23:03:32,muhammad2231026@itpln.ac.id,MUHAMMAD NAUFAL ARIEF,2022,202231026,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+51,2026-01-14 05:57:38,desta2232033@itpln.ac.id,DESTA AZRA ROSANI FEERLIAN ADI,2022,202232033,S1 Sistem Informasi,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+52,2026-01-14 10:03:08,popy2231079@itpln.ac.id,POPY LEONI PURBA,2022,202231079,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+53,2026-01-14 11:41:44,serlina2131161@itpln.ac.id,SERLINA MARGARET BANOET BR HUTAHAEAN,2021,202131161,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+54,2026-01-14 11:58:44,dewi2231011@itpln.ac.id,DEWI SAFITRI,2022,202231011,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+55,2026-01-14 12:09:22,grace2231082@itpln.ac.id,GRACE HUTASOIT,2022,202231082,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+56,2026-01-14 12:27:08,affandi1831201@itpln.ac.id,AFFANDI MUFTI NASRUN,2018,201831201,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+57,2026-01-14 13:58:13,muhamad2231038@itpln.ac.id,MUHAMAD RAFLY DEANDRI,2022,202231038,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+58,2026-01-14 14:15:06,destiana2231121@itpln.ac.id,DESTIANA SAFITRI,2022,202231121,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+59,2026-01-14 16:23:05,ajeng2231043@itpln.ac.id,AJENG PUSPITALOKA,2022,202231043,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+60,2026-01-14 17:49:23,frengki2131193@itpln.ac.id,FRENGKI JOSUA PURBA,2021,202131193,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+61,2026-01-14 18:53:01,siprianus1931253@itpln.ac.id,SIPRIANUS TABUNI,2019,201931253,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+62,2026-01-14 19:02:51,annyda2231029@itpln.ac.id,ANNYDA DYAH KUSUMA,2022,202231029,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+63,2026-01-14 19:04:48,jovandra2131124@itpln.ac.id,JOVAN DRA,2021,202131124,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+64,2026-01-14 20:06:28,renata2231059@itpln.ac.id,RENATA YASMINE SELOMITA,2022,202231059,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+65,2026-01-14 20:13:02,widy2231070@itpln.ac.id,WIDY SYAFITRI SLAMEF,2022,202231070,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+66,2026-01-14 20:14:58,fufun2232030@itpln.ac.id,FUFUN AGITHA FUNIAYUNG,2022,202232030,S1 Sistem Informasi,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+67,2026-01-14 20:15:40,dea2231048@itpln.ac.id,DEA ENJELIKA,2022,202231048,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+68,2026-01-14 20:49:40,nur2231090@itpln.ac.id,NUR MUTMAINNAH HASRUL,2022,202231090,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+69,2026-01-14 20:58:05,dwi2231124@itpln.ac.id,DWI RENO OKTA RIADI,2022,202231124,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+70,2026-01-14 21:03:43,salman2231091@itpln.ac.id,SALMAN ALMUZAFAR,2022,202231091,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+71,2026-01-14 21:03:54,renny2231071@itpln.ac.id,RENNY AMELIA BANTOTO,2022,202231071,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+72,2026-01-14 21:05:49,zaidan2231116@itpln.ac.id,ZAIDAN AZHAR,2022,202231116,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+73,2026-01-14 21:07:48,luthfi2131081@itpln.ac.id,LUTHFI YANI DARMAWANSYAH,2021,202131081,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+74,2026-01-14 21:08:30,ratu2231105@itpln.ac.id,RATU ADISYA,2022,202231105,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+75,2026-01-14 21:09:07,ilham2231119@itpln.ac.id,ILHAM TANZILAL AZIIZIR,2022,202231119,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+76,2026-01-14 21:23:18,yericho2231012@itpln.ac.id,YERICHO HARVEY KRISETYANTO,2022,202231012,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+77,2026-01-14 21:25:29,akbar2231015@itpln.ac.id,MUHAMMAD AKBAR ABIDZAR AL GHIFARI,2022,202231015,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+78,2026-01-14 21:25:38,hafidz2231075@itpln.ac.id,HAFIDZ NUR RAIHAN,2022,202231075,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+79,2026-01-14 21:33:06,rahmi2231056@itpln.ac.id,RAHMI NUR HIDAYAH,2022,202231056,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+80,2026-01-14 21:47:07,desi2231032@itpln.ac.id,DESI FITRIANI RAMADAN,2022,202231032,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+81,2026-01-14 21:49:52,rizky2131076@itpln.ac.id,RIZKY JULIANTO,2021,202131076,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+82,2026-01-14 21:51:03,cynthia2231046@itpln.ac.id,CYNTHIA MAHARANI,2022,202231046,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+83,2026-01-14 22:03:37,indah2231051@itpln.ac.id,INDAH WULANDARI,2022,202231051,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+84,2026-01-14 22:16:09,t2231035@itpln.ac.id,T.RAJAS SUHABA ARWANA,2022,202231035,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+85,2026-01-14 22:20:17,farrel2231096@itpln.ac.id,FARREL LAOGI MURJITAMA,2022,202231096,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+86,2026-01-14 22:30:17,christian2231117@itpln.ac.id,CHRISTIAN LUMBAN GAOL,2022,202231117,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+87,2026-01-14 22:30:27,maharani2231073@itpln.ac.id,MAHA RANI,2022,202231073,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+88,2026-01-14 22:41:04,bagas2231101@itpln.ac.id,BAGAS IMANUEL PASARIBU,2022,202231101,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+89,2026-01-14 22:46:49,rizaldy2231127@itpln.ac.id,RIZALDY HANIF KAUTSAR,2022,202231127,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
+90,2026-01-14 23:50:26,muhammad2231025@itpln.ac.id,MUHAMMAD FADHIL BIMA JULIANO,2022,202231025,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,NOT APPROVED
+91,2026-01-14 23:59:12,sifa2131186@itpln.ac.id,SIFA HIDAYATULLAH RAMADHAN,2021,202131186,S1 Teknik Informatika,MCF: Azure AI-900,Training & Ujian, Rp-   , Rp-   ,APPROVED
