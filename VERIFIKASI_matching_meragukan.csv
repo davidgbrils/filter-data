@@ -1,0 +1,5 @@
+﻿Nama Peserta,NIM,Jurusan,Sumber Data,Program,Status Registrasi,Nama di Certiport,Skor Kecocokan,Tipe Match,Status Certiport,Confidence Level
+MUHAMMAD RAFI AL ANBIYA,202231089,S1 Teknik Informatika,MCF,MCF: Azure AI-900,NOT APPROVED,MUHAMMAD RAFI FARHAN,85,Partial Ratio (2 kata cocok),✅ DITEMUKAN,MEDIUM - Cukup Yakin
+UMMU PUTRI SALSABILA,202232036,S1 Sistem Informasi,MCF,MCF: Azure AI-900,NOT APPROVED,SALSABILA EKA PUTRI,88,Token Set Ratio (2 kata cocok),✅ DITEMUKAN,MEDIUM - Cukup Yakin
+RADEN MUHAMMAD ASYAM RAFI,202211042,S1 Teknik Elektro,MOS,MOS: Word,NOT APPROVED,MUHAMMAD RAFI FARHAN,80,Token Set Ratio (2 kata cocok),✅ DITEMUKAN,LOW - Perlu Verifikasi
+MUHAMMAD DAFFA ZHAFRAN,202211115,S1 Teknik Elektro,MOS,MOS: Word,NOT APPROVED,MUHAMMAD DAFFA JOWIS,82,Token Set Ratio (2 kata cocok),✅ DITEMUKAN,LOW - Perlu Verifikasi
